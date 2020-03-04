@@ -18,8 +18,9 @@ Summary: Weight your reconstruction loss less when your data is noisy
 
 Empirical uses and problems solved: "Removes" KL annealing for VAEs. Better preformance on all benchmarks when compared to more traditional VAEs.
 
+
 ### week 5: challenging_assumptions.pdf: https://arxiv.org/abs/1811.12359
 
 Summary: Disentanglment is a scam
 
-Empirical uses and problems solved: Don't care too much about disentanglment. It doesn't matter tha much in alot of cases. More research required. Better metrics required.
+Empirical uses and problems solved: Don't care too much about disentanglment. It doesn't matter that much in alot of cases. More research required. Better metrics required.
