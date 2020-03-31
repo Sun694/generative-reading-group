@@ -24,3 +24,21 @@ Empirical uses and problems solved: "Removes" KL annealing for VAEs. Better pref
 Summary: Disentanglment is a scam
 
 Empirical uses and problems solved: Don't care too much about disentanglment. It doesn't matter that much in alot of cases. More research required. Better metrics required.
+
+### week 6: w6_adversarial autoencoders.pdf: https://arxiv.org/abs/1511.05644
+
+Summary: If you're willing to have a discriminator, any prior can be used for a VAE.
+
+Empirical uses and problems solved: If you want a weird prior that is easy to sample from, but that does not have a closed-form / computationally efficient KL term, consider using a discriminator. 
+
+### week 7: w7_conditional_priors.pdf: https://arxiv.org/abs/1911.10885
+
+Summary: If you have data that has distinct rough-grained modes, encorperate a "modality predictor" into your latent representation.
+
+Empirical uses and problems solved: Seemingly useful for rough-grained data, but no uses were presented in high dimension.
+
+### week 8: w8_multilingual_translation.pdf: https://arxiv.org/abs/2002.02955
+
+Summary: Using expectation maximization, you can train unsupervised machine translation models suprisingly well.
+
+Empirical uses and problems solved: SOTA in some tasks for unsupervised machine translation, provides a moral derivation of the backtranslation optimization.
