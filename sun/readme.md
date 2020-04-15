@@ -42,3 +42,9 @@ Empirical uses and problems solved: Seemingly useful for rough-grained data, but
 Summary: Using expectation maximization, you can train unsupervised machine translation models suprisingly well.
 
 Empirical uses and problems solved: SOTA in some tasks for unsupervised machine translation, provides a moral derivation of the backtranslation optimization.
+
+## week 10: w10_BERT.pdf: https://arxiv.org/abs/1810.04805
+
+Summary: Masked language modeling is able to produce extremely powerful models.
+
+Empirical uses and problems solved: SOTA in 11 tasks at time of publication. Still used today due to extreme flexability. Very good model.
