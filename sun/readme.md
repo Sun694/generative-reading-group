@@ -48,3 +48,9 @@ Empirical uses and problems solved: SOTA in some tasks for unsupervised machine 
 Summary: Masked language modeling is able to produce extremely powerful models.
 
 Empirical uses and problems solved: SOTA in 11 tasks at time of publication. Still used today due to extreme flexability. Very good model.
+
+## week 11: w11_MASS.pdf: https://arxiv.org/abs/1905.02450
+
+Summary: Masked language modeling with explicit generative biases
+
+Empirical uses and problems solved: SOTA in unsupervised machine translation in many directions. Still used as pretraining today (mid 2020). Very good for what it does.
