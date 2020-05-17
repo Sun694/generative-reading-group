@@ -1,6 +1,6 @@
 ## A repository of easily-understandable notes for generative papers.
 
-###AEs/ 
+### AEs/ 
 ```
     The Thermodynamic Variational Objective - anokhi_w03_thermodynamic_variational_objective.pdf
     Tighter Variational Bounds are Not Necessarily Better - anokhi_w04_tighter_variational_bounds_are_not_necessarily_better.pdf
@@ -13,7 +13,7 @@
     Adversarial Autoencoders - jarad_w06_adversarial_autoencoders.pdf
     Improving VAE generations of multimodal data through data-dependent conditional priors - sun694_w07_conditional_priors.pdf
 ```
-###GANs/
+### GANs/
 ```
     Hamiltonian Generative Networks - anokhi_w02_hamiltonian_generative_networks.pdf
     
@@ -21,11 +21,11 @@
     
     Generative Adversarial User Model for Reinforcement Learning Based Recommendation System - michael_w07_gan_recommendation.pdf
 ```
-###misc/ 
+### misc/ 
 ```
     Discrete Flows: Invertible Generative Models of Discrete Data - sun694_w03_discrete_flows.pdf
 ```
-###NLP/
+### NLP/
 ```
     A Multilingual View of Unsupervised Machine Translation - sun694_w08_multilingual_translation.pdf
     BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - sun694_w10_BERT.pdf
