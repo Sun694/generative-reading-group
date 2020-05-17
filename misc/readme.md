@@ -2,4 +2,4 @@
 
 Summary: Use normalizing flows, but discrete.
 
-Empirical uses and problems solved: Extremely fast when compared to continuous flows. Useful for discrete data.
+Empirical uses: Extremely fast when compared to continuous flows. Useful for discrete data.

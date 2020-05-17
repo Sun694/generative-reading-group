@@ -10,7 +10,7 @@
     Avoiding Latent Variable Collapse With Generative Skip Models - sun694_w02_latent_skip_notes.pdf
     Balancing Reconstruction Quality and Regularisation in ELBO for VAEs - sun694_w04_balancing_reconstruction.pdf
     Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations - sun694_w05_challenging_assumptions.pdf
-    Adversarial Autoencoders - jarad_w06_adversarial_autoencoders.pdf
+    Adversarial Autoencoders - sun694_w06_adversarial_autoencoders.pdf
     Improving VAE generations of multimodal data through data-dependent conditional priors - sun694_w07_conditional_priors.pdf
 ```
 ### GANs/
@@ -38,3 +38,9 @@
 All of these notes are from a reading group that happens once a week, monday 7pm CST at discord.sg/ai
 
 It is completely public, participation not neccessary. We average ~10-15 people per gathering, present notes, then answer questions, focusing on intuition.
+
+
+Collaborators' githubs:
+
+Sun694: https://github.com/Sun694/
+Michael: https://github.com/MouseAndKeyboard/
