@@ -1,8 +1,8 @@
-### week 2: anokhi_w02_hamiltonian_generative_networks.pdf: https://arxiv.org/abs/1909.13789
+### week 15: anokhi_w15_vqvae2.pdf: https://arxiv.org/abs/1906.00446
 
-Summary: You can draw paralells between generative networks and the Hamiltonian.
+Summary: VQVAE 2: Back and better than before. Slight changes, better results.
 
-Empirical uses: You can use them as modified normalizing flow with some benefits.
+Empirical uses: If you need a good VAE, there's no better (May 2020).
 
 ### week 9: bun_w09_wasserstein_gan.pdf: https://arxiv.org/abs/1701.07875
 
@@ -16,3 +16,8 @@ Summary: Learn unknown/hidden reward functions using a GAN
 
 Empirical uses: Recommendation system which takes into account context (view history) and attempts to maximise the user's utility.
 
+### week 15: sun684_w15_style_gan.pdf: https://arxiv.org/abs/1812.04948
+
+Summary: StyleGAN: A style-based GAN that uses clever tricks to make the generator better.
+
+Empirical uses: If you want a good GAN, this is your best bet aside from StyleGAN2 (May 2020)
