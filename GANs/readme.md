@@ -1,9 +1,3 @@
-### week 15: anokhi_w15_vqvae2.pdf: https://arxiv.org/abs/1906.00446
-
-Summary: VQVAE 2: Back and better than before. Slight changes, better results.
-
-Empirical uses: If you need a good VAE, there's no better (May 2020).
-
 ### week 9: bun_w09_wasserstein_gan.pdf: https://arxiv.org/abs/1701.07875
 
 Summary: You can tie Wasserstein magic into GANs
@@ -24,6 +18,6 @@ Empirical uses: If you want a good GAN, this is your best bet aside from StyleGA
 
 ### week 16: sun_w16_style_gan2.pdf: https://arxiv.org/abs/1912.04958
 
-Summary: Better StyleGAN
+Summary: Better StyleGAN NOTE: There are typos in this PDF, however, my LaTeX document corrupted itself, so I cannot fix them.
 
-Empirical uses: Better StyleGAN
+Empirical uses: Better StyleGAN 

@@ -26,6 +26,12 @@ Summary: Regularize your AEs, don't use VAEs.
 
 Empirical uses: RAEs are as good as VAEs, but without alot of the bad aspects (posterior collapse). 
 
+### week 15: anokhi_w15_vqvae2.pdf: https://arxiv.org/abs/1906.00446
+
+Summary: VQVAE 2: Back and better than before. Slight changes, better results.
+
+Empirical uses: If you need a good VAE, there's no better (May 2020).
+
 ### week 2: sun694_w02_latent_skip_notes.pdf: https://arxiv.org/abs/1807.04863
 
 Summary: Connect your latent space to your decoder using skip connections.

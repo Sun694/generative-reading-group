@@ -7,6 +7,7 @@
     Tighter Variational Bounds are Not Necessarily Better - anokhi_w04_tighter_variational_bounds_are_not_necessarily_better.pdf
     Wasserstein Auto-Encoders - anokhi_w09_wasserstein_autoencoders.pdf
     From Variational to Deterministic Autoencoders - anokhi_w12_variational_to_deterministic_autoencoders.pdf
+    Generating Diverse High-Fidelity Images with VQ-VAE-2 - anokhi_w15_vqvae2.pdf
     
     Avoiding Latent Variable Collapse With Generative Skip Models - sun694_w02_latent_skip_notes.pdf
     Balancing Reconstruction Quality and Regularisation in ELBO for VAEs - sun694_w04_balancing_reconstruction.pdf
@@ -16,7 +17,6 @@
 ```
 ### GANs/
 ```
-    VQVAE2 - anokhi_w15_vqvae2.pdf
     
     Wasserstein GAN - bun_w09_wasserstein_gan.pdf
     
