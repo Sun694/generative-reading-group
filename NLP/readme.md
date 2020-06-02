@@ -22,6 +22,12 @@ Summary: An im2text architecture for judging the artistic quality of a photo.
 
 Empirical uses: Not many. However, the architecture they used was interesting, as was the method of gathering data.
 
+### week 17: sun694_w17_large_memory_layers.pdf: https://arxiv.org/abs/1907.05242
+
+Summary: Use a sparse clustering algorithm to generate memories
+
+Empirical uses: Computationally efficient parameterization of models
+
 ## week 8: michael_w08_attn_is_all_you_need.pdf: https://arxiv.org/abs/1706.03762
 
 Summary: Transformers - much more nerdy and less Michael Bay

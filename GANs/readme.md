@@ -21,3 +21,9 @@ Empirical uses: Recommendation system which takes into account context (view his
 Summary: StyleGAN: A style-based GAN that uses clever tricks to make the generator better.
 
 Empirical uses: If you want a good GAN, this is your best bet aside from StyleGAN2 (May 2020)
+
+### week 16: sun_w16_style_gan2.pdf: https://arxiv.org/abs/1912.04958
+
+Summary: Better StyleGAN
+
+Empirical uses: Better StyleGAN

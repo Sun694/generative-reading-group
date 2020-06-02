@@ -23,6 +23,7 @@
     Generative Adversarial User Model for Reinforcement Learning Based Recommendation System - michael_w07_gan_recommendation.pdf
     
     StyleGAN - sun694_w15_style_gan.pdf
+    Analyzing and Improving the Image Quality of StyleGAN - sun694_w15_style_gan2.pdf
 ```
 ### misc/ 
 ```
@@ -34,6 +35,7 @@
     BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - sun694_w10_BERT.pdf
     MASS: Masked Sequence to Sequence Pre-training for Language Generation - sun694_w11_MASS.pdf
     Aesthetic Image Captioning From Weakly-Labelled Photographs - sun694_w12_aesthetic_image_captioning.pdf
+    Large Memory Layers with Product Keys - sun684_w17_large_memory_layers.pdf
     
     Attention Is All You Need - michael_w08_attn_is_all_you_need.pdf
 ```
