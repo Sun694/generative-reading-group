@@ -36,6 +36,10 @@
     MASS: Masked Sequence to Sequence Pre-training for Language Generation - sun694_w11_MASS.pdf
     Aesthetic Image Captioning From Weakly-Labelled Photographs - sun694_w12_aesthetic_image_captioning.pdf
     Large Memory Layers with Product Keys - sun694_w17_large_memory_layers.pdf
+    The Curious Case of Neural Text Degeneration - sun694_w19_neural_text_degeneration.pdf
+    Word Translation Without Parallel Data - sun694_w22_aligning_embeddings.pdf
+    Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules sun694_w23_molecule_generation.pdf
+    
     
     Attention Is All You Need - michael_w08_attn_is_all_you_need.pdf
 ```

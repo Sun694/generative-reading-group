@@ -28,7 +28,25 @@ Summary: Use a sparse clustering algorithm to generate memories
 
 Empirical uses: Computationally efficient parameterization of models
 
-## week 8: michael_w08_attn_is_all_you_need.pdf: https://arxiv.org/abs/1706.03762
+### week 19: sun694_w19_neural_text_degeneration.pdf: https://arxiv.org/abs/1904.09751
+
+Summary: Sample instead of beam search. Only sample from the top n samples who's probabilities sum to p, a hyperparameter.
+
+Empirical uses: The current best decoding scheme, as far as I know.
+
+### week 22: sun694_w22_aligning_embeddings.pdf: https://arxiv.org/abs/1710.04087
+
+Summary: Align the embedding of different languages, then translate words.
+
+Empirical uses: Accurate word translation. A bit old nowadays. Was SOTA.
+
+### week 23: sun694_w23_molecule_generation.pdf: https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00572
+
+Summary: A VAE for molecules.
+
+Empirical uses: Generating new molecules: drug discovery.
+
+### week 8: michael_w08_attn_is_all_you_need.pdf: https://arxiv.org/abs/1706.03762
 
 Summary: Transformers - much more nerdy and less Michael Bay
 
