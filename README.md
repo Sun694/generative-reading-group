@@ -46,7 +46,7 @@
 
 All of these notes are from a reading group that happens once a week, monday 7pm CST at discord.sg/ai
 
-It is completely public, participation not neccessary. We average ~10-15 people per gathering, present notes, then answer questions, focusing on intuition.
+It is completely public, presenting not neccessary. We average ~15+ people per gathering, present notes, then answer questions, focusing on intuition.
 
 
 Collaborators' githubs:
