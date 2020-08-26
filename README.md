@@ -38,7 +38,8 @@
     Large Memory Layers with Product Keys - sun694_w17_large_memory_layers.pdf
     The Curious Case of Neural Text Degeneration - sun694_w19_neural_text_degeneration.pdf
     Word Translation Without Parallel Data - sun694_w22_aligning_embeddings.pdf
-    Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules sun694_w23_molecule_generation.pdf
+    Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules - sun694_w23_molecule_generation.pdf
+    Image Transformer - sun694_w26_image_transformer.pdf
     
     
     Attention Is All You Need - michael_w08_attn_is_all_you_need.pdf
@@ -52,4 +53,5 @@ It is completely public, presenting not neccessary. We average ~15+ people per g
 Collaborators' githubs:
 
 Sun694: https://github.com/Sun694/
+
 Michael: https://github.com/MouseAndKeyboard/

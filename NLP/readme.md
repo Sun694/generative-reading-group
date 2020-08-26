@@ -46,6 +46,12 @@ Summary: A VAE for molecules.
 
 Empirical uses: Generating new molecules: drug discovery.
 
+### week 26: sun694_w26_image_transformer.pdf: https://arxiv.org/abs/1802.05751
+
+Summary: Transformers, but on images.
+
+Empirical uses: Image generation or discrimination. 
+
 ### week 8: michael_w08_attn_is_all_you_need.pdf: https://arxiv.org/abs/1706.03762
 
 Summary: Transformers - much more nerdy and less Michael Bay
